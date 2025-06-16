@@ -1,16 +1,32 @@
-## Hi there 👋
+<h1 align="center">
+  Meow Meow 🎷🐈  
+</h1> 
+I'm deski and I'm bored 
+<p></p>
+<ul>
+  <li>🐾 Furry</li>
+  <li>🐾 Cat</li>
+  <li>🐾 :p</li>
+</ul>
 
-<!--
-**LeDesqui/LeDesqui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🐾
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/9e57e7ee-b1c4-440f-9c32-e7df4f1ccbfa" width="400" height="400"/>
+</div>
+
+
+## 🐾 Programming languages
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://github.com/user-attachments/assets/311ce3c6-4a44-468e-abd6-5a7ef9d834bf" width="50" height="50"/>
+    <img src="https://skillicons.dev/icons?i=java,c,haskell,py"/>
+  </a>
+ 
+</p>
+
+
+
+
